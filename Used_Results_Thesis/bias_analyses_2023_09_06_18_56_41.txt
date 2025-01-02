@@ -1,0 +1,6 @@
+Used Model: Saved_Models/cc.de.300.bin/cc.de.300.bin
+Used defining set: ['Schwarz', 'Jüdisch', 'Muslimisch', 'Asiatisch', 'Osteuropäisch', 'Roma']
+Used comparing set: ['Hauptschulabschluss', 'Realschulabschluss', 'Abitur']
+PCA variance ratio (PC1, PC2, PC3, PC4, PC5): [0.63536453 0.12167129 0.08654229 0.06803338 0.04868372]
+Bias score comparing set to bias subspace: 0.08213220412532489
+Bias strictness parameter: 1
